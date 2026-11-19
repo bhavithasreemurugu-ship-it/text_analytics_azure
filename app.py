@@ -1,7 +1,7 @@
 from openai import AzureOpenAI
 
 endpoint = "https://project25115-resource.services.ai.azure.com/"
-api_key = "YOUR_AZURE_API_KEY"
+api_key = "dfg678gnklyuiomnbvcxsdfghjklkjhgf"
 deployment_name = "gpt-5-mini"
 
 client = AzureOpenAI(
